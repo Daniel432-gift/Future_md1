@@ -54,10 +54,10 @@
 2. Now deploy.
     <br>
     <a href='https://dashboard.heroku.com/new?template=https://github.com/Daniel432-gift/Future_md1' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/-DEPLOY-purple?style=for-the-badge&logo=heroku&logoColor=white'/></a>
-### DEPLOY ON REPLIT
+### DEPLOY ON BOT PANNEL
 1. Deploy.
     <br>
-    <a href='https://replit.com/github/Daniel432-gift/Future_md1' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
+    <a href='https://bothosting.net/github/Daniel432-gift/Future_md1' target="_blank"><img alt='Replit' src='https://img.shields.io/badge/-Deploy-red?style=for-the-badge&logo=replit&logoColor=white'/></a>
 ### DEPLOY ON RAILWAY
 1. Deploy.
     <br>
