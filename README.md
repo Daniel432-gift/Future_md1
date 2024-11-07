@@ -10,7 +10,7 @@
 <p align="center">
 <a href="https://github.com/Daniel432-gift/Future_md1/followers"><img title="Followers" src="https://img.shields.io/github/followers/Daniel432-gift?color=red&style=flat-square"></a>
 <a href="https://github.com/Daniel432-gift/Future_md1/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Daniel432-gift/Future_md1?color=blue&style=flat-square"></a>
-<a href="https://github.com/Daniel432-gift/Future_md1/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Daniel432-gift/Futute_md1?color=red&style=flat-square"></a>
+<a href="https://github.com/Daniel432-gift/Future_md1"><img title="Forks" src="https://img.shields.io/github/forks/Daniel432-gift/Futute_md1?color=red&style=flat-square"></a>
 <a href="https://github.com/Daniel432-gift/Future_md1/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Daniel432-gift/Future_md1?label=Watchers&color=blue&style=flat-square"></a>
 <a href="https://github/Daniel432-gift/Future_md1/"><img title="Size" src="https://img.shields.io/github/repo-size/Daniel432-gift/Future_md1?style=flat-square&color=green"></a>
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDsniel432-gift%2FFuture_md&count_bg=%2379C83D&title_bg=%23555555&icon=probot.svg&icon_color=%2300FF6D&title=hits&edge_flat=false"/></a>
