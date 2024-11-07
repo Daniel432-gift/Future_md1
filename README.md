@@ -1,4 +1,4 @@
- # FUTURE_MD-V2 
+ # FUTURE_MD 
    <a><img src='https://imgur.com/a/3KwxVq6.gif'/></a><a><img src='https://imgur.com/a/3KwxVq6.gif'/></a>
 <p align="center">
 <p align="center">
@@ -31,12 +31,12 @@
 
 ### SERVER 1 
  
-<a href="https://futurepair.onrender.com"><img src="https://img.shields.io/badge/SESSION_ID-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
+<a href="https://futurepair-6745a4986e6b.herokuapp.com"><img src="https://img.shields.io/badge/SESSION_ID-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
 ### SERVER 2 
 ### GET SESSION ID HERE ( Replit) 
 
-<a href="https://futurepair.onrender.com"><img src="https://img.shields.io/badge/SESSION-ID-red" alt="Click Here to Get Pair-Code" width="110"></a>   
+<a href="https://futurepair-6745a4986e6b.herokuapp.com"><img src="https://img.shields.io/badge/SESSION-ID-red" alt="Click Here to Get Pair-Code" width="110"></a>   
 
 
 
