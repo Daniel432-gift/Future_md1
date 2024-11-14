@@ -31,12 +31,12 @@
 
 ### SERVER 1 
  
-<a href="https://samsung-5ggy.onrender.com"><img src="https://img.shields.io/badge/SESSION_ID-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
+<a href="https://samsung-ls3s.onrender.com"><img src="https://img.shields.io/badge/SESSION_ID-blue" alt="Click Here to Get Pair-Code" width="110"></a>   
 
 ### SERVER 2 
 ### GET SESSION ID HERE ( Replit) 
 
-<a href="https://samsung-5ggy.onrender.com"><img src="https://img.shields.io/badge/SESSION-ID-red" alt="Click Here to Get Pair-Code" width="110"></a>   
+<a href="https://samsung-ls3s.onrender.com"><img src="https://img.shields.io/badge/SESSION-ID-red" alt="Click Here to Get Pair-Code" width="110"></a>   
 
 
 
