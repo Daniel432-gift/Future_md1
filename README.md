@@ -1,5 +1,5 @@
  # FUTURE_MD 
-   <a><img src='https://files.catbox.moe/jpkfhh.jpg'/></a><a><img src='https://imgur.com/a/3KwxVq6.gif'/></a>
+   <a><img src='https://files.catbox.moe/j1fxdz.jpeg'/></a><a><img src='https://imgur.com/a/3KwxVq6.gif'/></a>
 <p align="center">
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ FUTURE-+MD★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+DANNY;RELEASED+DATE+04%2F11%2F2024." alt="Typing SVG" /></a>
